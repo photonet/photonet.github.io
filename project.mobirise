@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Photobot.tk",
-    "currentPage": "Help.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1048,6 +1048,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#553982"
+            }
+          },
           "_anchor": "contacts1-1r",
           "_params": {
             "paddingTop": "0",
@@ -1079,12 +1084,7 @@
           },
           "text1": "<strong>Address</strong><br>\n16, Zone 1, Oremeji, Ibadan<br>\nCity, Ibadan",
           "text2": "<strong>Contacts</strong><br>\nEmail: salamabiodun01@gmail.com<br>\nPhone: +234 9090461078<br><br>",
-          "text3": "<strong>Links</strong><br>Edit Photos<br>Trial<br><br><br>",
-          "_styles": {
-            "STRONG": {
-              "color": "#553982"
-            }
-          }
+          "text3": "<strong>Links</strong><br>Edit Photos<br>Trial<br><br><br>"
         }
       ]
     }
